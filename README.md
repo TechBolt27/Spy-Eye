@@ -5,11 +5,11 @@ Only For Educational and Testing Purposes... Not to harm Someone.
 # Spy-Eye By HackBoltz
 
 # Templates:
-Youtube Live Tv
-Birthday Wish
-Secret Message
-Fake Instagram Followers
-Chating Bot (Fake AI)
+Youtube Live Tv   
+Birthday Wish   
+Secret Message   
+Fake Instagram Followers   
+Chating Bot (Fake AI)   
 
 ## Installation ~Linux/Termux.
 ```
